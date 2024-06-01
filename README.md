@@ -13,7 +13,7 @@ Tools used - 1) My SQL to extracted the data.
              2) Power BI for visualization.
 
 
-### Consumer Goods Insgits Hub
+## CONSUMER GOODS INSIGHTS
 
 ## OVERALL SALES PERFORMANCE 
  
