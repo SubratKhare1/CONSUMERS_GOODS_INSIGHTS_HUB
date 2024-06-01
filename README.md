@@ -6,7 +6,7 @@ The database includes four main tables:
 3. Highest Bill For Season
 4. Products 
 
-Here is the Data Model that I have created in Power BI for the Visualization part -
+Here is the Data Model that I have created in Power BI for the Visualization part
 ![CGIH](https://github.com/SubratKhare1/CONSUMERS_GOODS_INSIGHTS_HUB/assets/167521755/fc9f605d-78d9-4ef6-a37f-c31cbc247cba)
 
 Tools used - 1) My SQL to extracted the data.
