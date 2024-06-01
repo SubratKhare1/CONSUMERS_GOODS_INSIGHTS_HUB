@@ -21,7 +21,7 @@ Tools used - 1) My SQL to extracted the data.
 5) PRODUCT PERFORMANCE ANALYSIS
 
 
-# OVERALL SALES PERFORMANCE 
+## OVERALL SALES PERFORMANCE 
  
 #1 TOTAL SALES BT STORE TYPE - 
 
@@ -35,7 +35,7 @@ Tools used - 1) My SQL to extracted the data.
 
 
 
-# ANNUAL SALES TRENDS
+## ANNUAL SALES TRENDS
 
 #3 YEARLY SALES PERFORMANCE BY STORE TYPE -
 
@@ -66,7 +66,7 @@ Tools used - 1) My SQL to extracted the data.
 
 
 
-# CUSTOMER INSIGHTS
+## CUSTOMER INSIGHTS
 
 #7 TOTAL SALES BY CUTOMER CATEGORY -
 
@@ -96,7 +96,7 @@ Tools used - 1) My SQL to extracted the data.
 
 
 
-# GEOGRAPHIC SALES ANALYSIS
+## GEOGRAPHIC SALES ANALYSIS
 
 #11 TOP 3 TOTAL SALES BY CITIES YEARLY -
 
@@ -112,7 +112,7 @@ Tools used - 1) My SQL to extracted the data.
 
 
 
-# PRODUCT PERFORMANCE ANALYSIS
+## PRODUCT PERFORMANCE ANALYSIS
 
 #13 Total Product Sales - 
 
