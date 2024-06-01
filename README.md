@@ -2,7 +2,7 @@
 
 The database includes four main tables:
 1. Retail_Transaction_Dataset
-2. Total Spending Customer yearly
+2. Total Spending Customer Yearly
 3. Highest Bill For Season
 4. Products 
 
