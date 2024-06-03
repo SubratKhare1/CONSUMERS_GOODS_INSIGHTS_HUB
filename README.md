@@ -147,6 +147,8 @@ Tools used - 1) My SQL to extracted the data.
 
 
 
+
+
 #17 BOTTOM 3 SELLING PRODUCTS ANNUALLY -
 
 ![Bottom 3 Sller](https://github.com/SubratKhare1/CONSUMERS_GOODS_INSIGHTS_HUB/assets/167521755/92a29047-9503-4298-a7a1-917d249ca6da)
