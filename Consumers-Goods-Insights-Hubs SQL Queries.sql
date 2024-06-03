@@ -25,7 +25,7 @@ FROM
 GROUP BY
     City
 ORDER BY
-    SUM(Total_Cost) DESC;
+    SUM(Total_Cost) DESC; 
 
 
 ## ANNUAL SALES TRENDS
